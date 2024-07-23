@@ -1,23 +1,23 @@
-// const student = {
-//     fullName : "Amit Kumar",
-//     age : 24,
-//     cgpa: 7.5,
-//     isPass : true,
+const student = {
+    fullName : "Amit Kumar",
+    age : 24,
+    cgpa: 7.5,
+    isPass : true,
 
 
-// };
-// console.log(student.age);
+};
+console.log(student.age);
 
-// const product = {
-//     title: "Parker Jotter Standerd CT Ball Pen",
-//     rating: 4,
-//     offer: 5,
-//     price: 270,
+const product = {
+    title: "Parker Jotter Standerd CT Ball Pen",
+    rating: 4,
+    offer: 5,
+    price: 270,
     
 
 
-// };
-// console.log(product);
+};
+console.log(product);
 
 const profile = {
     userName: "@amit26.x",
