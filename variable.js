@@ -10,24 +10,24 @@ console.log(fullName);
 
 //-------------------VAR------------------
 
-// var a = "Hello World";
-// var b = 10;
-// var c = 12;
-// var d = b + c;
-// console.log(a);  
-// console.log(b);
-// console.log(c); 
-// console.log(d);
+var a = "Hello World";
+var b = 10;
+var c = 12;
+var d = b + c;
+console.log(a);  
+console.log(b);
+console.log(c); 
+console.log(d);
 
 //------------Let-------------
-// let a = "Hello Amit";
-// let b = "Joining";
-// let c = " 12";
-// let d = b + c;
-// console.log(a);
-// console.log(b);
-// console.log(c);
-// console.log(d);
+let a = "Hello Amit";
+let b = "Joining";
+let c = " 12";
+let d = b + c;
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(d);
 
 
 //------------Const-----------
