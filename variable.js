@@ -1,98 +1,36 @@
-// var a = "Hello World";
-// var b = 10;
-// var c = 20;
-// var d = b + c;
-// console.log(a);
-// console.log(b);
-// console.log(c);
-// console.log(d);
+// let x = "64";
+// let y = 8;
+// console.log(x/y)
+// console.log(x*y)
+// console.log(x-y)
 
 
-// let a = "Amit Gupta";
-// let b = " 10";
-// let c = " 12";
-// let d = b + c;
+// let x = 1; 
+// let y = 2.6;  
+// let z = "2 + 3i";
 
-// console.log(a);
-// console.log(b);
-// console.log(c);
-// console.log(d);
+// console.log(typeof x);
+// console.log(typeof y);
+// console.log(typeof z);
 
 
-// const a = "Hello World";
-// console.log(a);
-
-// const b = 400;
-// console.log(b);
-
-// const c = "12";
-// console.log(c);
-
-
-// let petName = "Rocky";
-// myFunction()
-
-// function myFunction(){
-//     fruit = 'apple';
-//     console.log(typeof petName + '-' + 'My pet name is ' + petName)
-// }
-// console.log(typeof petName + '-' + 'My pet name is ' + petName + 'Fruit name is ' + fruit)
-
-
-// myfunction();
-// anotherFunc();
-// let petName;
-// function myfunction(){
-//     let petName = "Sizzer";
-//     console.log(petName);
-// }
-// function anotherFunc(){
-//     let petName = "Tom";
-//     console.log(petName);
-
-// }
-// console.log(petName);
-
-
-// 
-
-
-
-//--------------Global Scope---------------
-// let num = 10;
-// console.log(num);
-// function fun(){
-//     console.log(num);
-// }
-// fun()
-
-
-//----------------Function Scope--------------
-
-// function fun(){
-//     let num = 10;
-//     console.log(num);
-// }
-// fun();
-// console.log(num);
-
-
-
-//---------------Redeclaring variables----------------
-// let x = 77;
-// {
-//     let x = 23;
-//     console.log(x);
-// }
+// let x = 10 ==9;
 // console.log(x);
 
 
-//--------------Redeclaring Variables in the same blocks----------
+// let x = 214.7487;
+// let y = 21257448;
+// console.log(typeof x);
+// console.log(typeof y);
 
-// let x = 77;
-// {
-//     let x = 23;
-//     console.log(x);
-// }
-// let x = 67;
-// console.log(x);
+
+// let x1 = Boolean("true");
+// let x2 = Boolean("False");
+// let x3 = Boolean(300);
+// let x4 = true;
+// console.log(x1)
+// console.log(x2)
+// console.log(x3)
+// console.log(x4)
+
+console.lo(4/0)
