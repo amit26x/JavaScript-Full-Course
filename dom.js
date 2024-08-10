@@ -1,5 +1,11 @@
-let div = document.querySelector("div");
-console.log(div)
+// let newBtn = document.createElement("button")
+// newBtn.innerText = "click me!";
 
-let id = div .getAttribute("id");
-console.log(id);
+// newBtn.style.color = "white";
+// newBtn.style.backgroundColor = "red";
+
+// document.querySelector("body").prepend(newBtn)
+
+
+
+let para = document.querySelector("p");

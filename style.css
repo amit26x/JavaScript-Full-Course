@@ -1,4 +1,7 @@
-button {
-    background-color: green;
-    color: white;
+.content{
+    color: red;
+}
+
+.newClass {
+    background-color: yellowgreen;
 }
