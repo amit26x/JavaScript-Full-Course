@@ -1,8 +1,8 @@
 const student = {
-    fullName : "Amit Kumar",
-    age : 24,
+    fullName : "Amit Kumar", //String datatype
+    age : 24,                //Number datatype
     cgpa: 7.5,
-    isPass : true,
+    isPass : true,           //Boolean datatype
 
 
 };
@@ -26,4 +26,4 @@ const profile = {
     following: 300,
 
 };
-console.log(typeof profile);
+console.log(typeof "amit26.x");  
