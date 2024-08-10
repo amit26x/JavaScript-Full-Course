@@ -1,36 +1,16 @@
-// let x = "64";
-// let y = 8;
-// console.log(x/y)
-// console.log(x*y)
-// console.log(x-y)
+const accountId = 12345678
+let accountEmail = "amit@gmail.com"
+var accountPass = "12345"
+accountCity = "Nautanwa"
+ let accountState;
 
+// accountID = 2   //not allowed 
 
-// let x = 1; 
-// let y = 2.6;  
-// let z = "2 + 3i";
+accountEmail = "gupta@gmail.com"
+accountPass = "12321"
+accountCity = "Gorakhpur"
+console.log(accountId);
 
-// console.log(typeof x);
-// console.log(typeof y);
-// console.log(typeof z);
+//prefer not to use var because of issue in bock scope and functional scope
 
-
-// let x = 10 ==9;
-// console.log(x);
-
-
-// let x = 214.7487;
-// let y = 21257448;
-// console.log(typeof x);
-// console.log(typeof y);
-
-
-// let x1 = Boolean("true");
-// let x2 = Boolean("False");
-// let x3 = Boolean(300);
-// let x4 = true;
-// console.log(x1)
-// console.log(x2)
-// console.log(x3)
-// console.log(x4)
-
-console.lo(4/0)
+console.table([accountEmail, accountId, accountPass, accountCity, accountState])
